@@ -14,5 +14,6 @@ var server = http.createServer(requestListener);
 server.listen(3000, function() { console.log("Listening on port 3000")});
 </pre>
 
+`newFile.js`{{open}}
 
 `echo 'Hello World3'`{{execute}}
